@@ -133,11 +133,11 @@ h6, .h6 {
     </div>
     <!-- Categories widget-->
     <div class="card mb-4">
-        <div class="card-header">Encyclopedia - CJ Auto</div>
-        <div class="card-body">เว็บสารานุกรมความรู้เรื่องช่วงล่างรถยนต์ รวบรวมข้อมูลคำถามที่พบบ่อย และคำตอบที่สามารถแก้ไขปัญหาได้โดยทันที</div>
+        <div class="card-header"><p>Encyclopedia - CJ Auto</p></div>
+        <div class="card-body"><p>เว็บสารานุกรมความรู้เรื่องช่วงล่างรถยนต์ รวบรวมข้อมูลคำถามที่พบบ่อย และคำตอบที่สามารถแก้ไขปัญหาได้โดยทันที</p></div>
     </div>
     <div class="card mb-4">
-        <div class="card-header">Categories</div>
+        <div class="card-header"><p>Categories</p></div>
         <div class="card-body">
             <div class="row">
                 <?php
