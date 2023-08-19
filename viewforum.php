@@ -31,6 +31,59 @@ include('./php/connect.php');
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.13.1/b-2.3.3/r-2.4.0/datatables.min.css" />
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.13.1/b-2.3.3/r-2.4.0/datatables.min.js"></script>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+body {
+  line-height: 1.8;
+  font-family: 'Kanit', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+  color: #232323;
+  letter-spacing: 0.5px;
+}
+
+h1, .h1 {
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+h2, .h2 {
+  font-size: 38px;
+  text-transform: uppercase;
+}
+
+h3, .h3 {
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: uppercase;
+}
+
+h4, .h4 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+h5, .h5 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+h6, .h6 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.font-primary {
+  font-family: 'Kanit', sans-serif;}
+
+.font-secondary {
+  font-family: 'Kanit', sans-serif;}
         div#mylayout_2 {
             display: block;
             width: 100%;
