@@ -90,6 +90,7 @@ h6, .h6 {
         }
 
         p.card-text {
+            font-family: 'Kanit', sans-serif;
             white-space: nowrap;
             width: 300px;
             overflow: hidden;

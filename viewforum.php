@@ -90,6 +90,7 @@ h6, .h6 {
 .font-secondary {
   font-family: 'Kanit', sans-serif;}
         div#mylayout_2 {
+            font-family: 'Kanit', sans-serif;
             display: block;
             width: 100%;
             word-wrap: break-word;
