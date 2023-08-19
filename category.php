@@ -89,7 +89,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   color: #232323;
   letter-spacing: 0.5px;
 }
-
+.p {
+  font-family: 'Kanit', sans-serif;}
+  .b {
+  font-family: 'Kanit', sans-serif;}
+  .a {
+  font-family: 'Kanit', sans-serif;}
 h1, .h1 {
   font-size: 48px;
   text-transform: uppercase;

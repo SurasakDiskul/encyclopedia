@@ -67,7 +67,12 @@ h6, .h6 {
   text-transform: uppercase;
   font-weight: 400;
 }
-
+.p {
+  font-family: 'Kanit', sans-serif;}
+  .b {
+  font-family: 'Kanit', sans-serif;}
+  .a {
+  font-family: 'Kanit', sans-serif;}
 .font-primary {
   font-family: 'Kanit', sans-serif;}
 
